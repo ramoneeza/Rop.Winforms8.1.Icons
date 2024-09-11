@@ -361,5 +361,4 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
-/Rop.Result8/Publish.cmd
-/Rop.Result8/Publish.cmd
+**/[Pp]ublish.cmd
