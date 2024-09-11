@@ -14,8 +14,11 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DuotoneBrowser", "DuotoneBrowser\DuotoneBrowser.csproj", "{17C0C5B1-FF9A-4274-8F85-91BDA6BAF29D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{A5600435-0431-4E49-89C8-D5140BDC15AB}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rop.Winforms8.1.DuotoneIcons.GoogleMaterial", "Rop.Winforms8.1.DuotoneIcons.GoogleMaterial\Rop.Winforms8.1.DuotoneIcons.GoogleMaterial.csproj", "{FDD5355A-93D7-46D3-A74B-42D0E8F32941}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rop.Winforms8.1.DuotoneIcons.GoogleMaterial", "Rop.Winforms8.1.DuotoneIcons.GoogleMaterial\Rop.Winforms8.1.DuotoneIcons.GoogleMaterial.csproj", "{FDD5355A-93D7-46D3-A74B-42D0E8F32941}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
