@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rop.Winforms8.1.DuotoneIcons", "Rop.Winforms8.1.DuotoneIcons\Rop.Winforms8.1.DuotoneIcons.csproj", "{E3D8B996-C0FE-48E2-B214-05EECD8F07BD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rop.Winforms8.1.DuotoneIcons.MaterialDesign", "Rop.Winforms8.1.DuotoneIcons.MaterialDesign\Rop.Winforms8.1.DuotoneIcons.MaterialDesign.csproj", "{135432E4-78EB-415D-B03D-52999EE21E30}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rop.Drawing8.Units", "Rop.Drawing8.Units\Rop.Drawing8.Units.csproj", "{32E955D9-EC3A-495A-B77D-DBFFC55EEA37}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rop.Winforms8.1.DoutoneIconBuilder", "Rop.Winforms8.1.DoutoneIconBuilder\Rop.Winforms8.1.DoutoneIconBuilder.csproj", "{A6E6A020-145D-4919-B079-737FE1FA90BD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DuotoneBrowser", "DuotoneBrowser\DuotoneBrowser.csproj", "{17C0C5B1-FF9A-4274-8F85-91BDA6BAF29D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{A5600435-0431-4E49-89C8-D5140BDC15AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rop.Winforms8.1.DuotoneIcons.GoogleMaterial", "Rop.Winforms8.1.DuotoneIcons.GoogleMaterial\Rop.Winforms8.1.DuotoneIcons.GoogleMaterial.csproj", "{FDD5355A-93D7-46D3-A74B-42D0E8F32941}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3D8B996-C0FE-48E2-B214-05EECD8F07BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3D8B996-C0FE-48E2-B214-05EECD8F07BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3D8B996-C0FE-48E2-B214-05EECD8F07BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3D8B996-C0FE-48E2-B214-05EECD8F07BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{135432E4-78EB-415D-B03D-52999EE21E30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{135432E4-78EB-415D-B03D-52999EE21E30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{135432E4-78EB-415D-B03D-52999EE21E30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{135432E4-78EB-415D-B03D-52999EE21E30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32E955D9-EC3A-495A-B77D-DBFFC55EEA37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32E955D9-EC3A-495A-B77D-DBFFC55EEA37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32E955D9-EC3A-495A-B77D-DBFFC55EEA37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32E955D9-EC3A-495A-B77D-DBFFC55EEA37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6E6A020-145D-4919-B079-737FE1FA90BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6E6A020-145D-4919-B079-737FE1FA90BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6E6A020-145D-4919-B079-737FE1FA90BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6E6A020-145D-4919-B079-737FE1FA90BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17C0C5B1-FF9A-4274-8F85-91BDA6BAF29D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17C0C5B1-FF9A-4274-8F85-91BDA6BAF29D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17C0C5B1-FF9A-4274-8F85-91BDA6BAF29D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17C0C5B1-FF9A-4274-8F85-91BDA6BAF29D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDD5355A-93D7-46D3-A74B-42D0E8F32941}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDD5355A-93D7-46D3-A74B-42D0E8F32941}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDD5355A-93D7-46D3-A74B-42D0E8F32941}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDD5355A-93D7-46D3-A74B-42D0E8F32941}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D74CDCC-8DDF-4D58-8C75-3533E2E434A1}
+	EndGlobalSection
+EndGlobal

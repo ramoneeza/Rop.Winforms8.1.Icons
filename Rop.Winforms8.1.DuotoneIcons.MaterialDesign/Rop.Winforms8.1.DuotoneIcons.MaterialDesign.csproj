@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	<RootNamespace>Rop.Winforms8.DuoToneIcons.MaterialDesign</RootNamespace>
+	<UseWindowsForms>true</UseWindowsForms>
+	<Title>Rop.Winforms8.1.DuoToneIcons.MaterialDesign</Title>
+	<PackageTags>helper-classes;winform;icons;two-tone;duotone;material-design</PackageTags>
+	<Description>DuoTone Icon classes for Winforms. Material Design</Description>
+	<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+	<Version>1.1.0</Version>
+	<Authors>Ramon Ordiales Plaza</Authors>
+	<Company>Ramon Ordiales Plaza</Company>
+	<Copyright>2024 Ramon Ordiales</Copyright>
+	<PackageLicenseExpression>GPL-3.0-or-later</PackageLicenseExpression>
+	<RepositoryUrl>https://api.nuget.org/v3/index.json</RepositoryUrl>
+  </PropertyGroup>
+	<ItemGroup>
+		<None Remove="MD.bin" />
+	</ItemGroup>
+	<ItemGroup>
+		<EmbeddedResource Include="MD.bin" />
+	</ItemGroup>
+	<ItemGroup>
+	  <ProjectReference Include="..\Rop.Winforms8.1.DuotoneIcons\Rop.Winforms8.1.DuotoneIcons.csproj" />
+	</ItemGroup>
+</Project>
